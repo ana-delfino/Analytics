@@ -18,3 +18,11 @@ This models were developed during my study of Bayesian forecasting in my master'
 
 You can find the code of this project in my [GitHub](https://github.com/ana-delfino/SARIMA-HOLTWINTER-NAIVEBAYES) and complete analysis in my [DropBox](https://www.dropbox.com/s/9gvuhubglf91e3o/Compara%C3%A7%C3%A3o%20entre%20o%20modelo%20Bayesiano%20e%20SARIMA%20para%20previs%C3%A3o%20do%20consumo%20no%20mercado%20livre%20de%20energia.pdf?dl=0)
 
+## Analysis of the generation of energy inflow scenarios for the Northeast and Southeast/ Midwest subsystems, using SARIMA model and Monte Carlo simulation.
+
+
+This models were developed during my study of Simulation Methods in my master's degree. The Brazilian electricity market is strongly dependent on hydroelectric power and accurate prediction of Affluent Natural Energy (ANE) series is essential for the planning and risk management in Brazilian Electric System (BES). Nowadays, Periodic Autoregressive model is used to generate synthetic series of ANE. Although, there are criticism regarding the performance of the model forecasts, especially in periods of critical affluence. This work uses SARIMA (Seasonal Autoregressive Integrated Moving Average) model for estimation and the Monte Carlo method for the generation of scenarios to the Northeast and Southeast/Midwest system subsystems, from January to December 2014. As a result, the study show the SARIMA model presents low precision and it cannot be said that the average of the scenarios generated significantly improves the forecast of the models applied.
+
+You can find the code of this project in my [GitHub](https://github.com/ana-delfino/SARIMA-MONTECARLO-SIMULATION) and complete analysis in my [DropBox](https://www.dropbox.com/s/3hzbs56oatclqs6/s%C3%A9ries%20sint%C3%A9ticas%20via%20Sarima%20e%20monte%20carlo%20-%20Ana%20Paula%20S%20Delfino.pdf?dl=0)
+
+
