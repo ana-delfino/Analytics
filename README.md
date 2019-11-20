@@ -16,4 +16,5 @@ You can find the code of this project in my [GitHub](https://github.com/ana-delf
 
 This models were developed during my study of Bayesian forecasting in my master's degree. Energy planning is an essential tool to match energy supply and demand. In this context, the estimation of power consumption is an important parameter for policy makers, especially in terms of generation complementation. This study compared the accuracy of consumption forecast in the brazilian energy pool market using the Seasonal Autoregressive Integrated Moving Average (SARIMA) model, the Naive model and the  Holt-Winters' Additive model. As a result this work shows that among the analyzed models, the Additive Winters model makes a more accurate forecasting, presenting a MAPE and a smaller RMSE, however the model has problems in representing the statistical characteristics of the historical series.
 
-You can find the code of this project in my [GitHub](https://github.com/ana-delfino/SARIMA-HOLTWINTER-NAIVEBAYES)
+You can find the code of this project in my [GitHub](https://github.com/ana-delfino/SARIMA-HOLTWINTER-NAIVEBAYES) and complete analysis [here] (https://www.dropbox.com/s/9gvuhubglf91e3o/Compara%C3%A7%C3%A3o%20entre%20o%20modelo%20Bayesiano%20e%20SARIMA%20para%20previs%C3%A3o%20do%20consumo%20no%20mercado%20livre%20de%20energia.pdf?dl=0)
+
